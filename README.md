@@ -143,9 +143,9 @@ Please make sure to review and adjust the content as needed, especially the spec
 
 Here's a preview of the Text Summarizer application in action:
 
-![Text Summarizer Screenshot](images/text-summarizer-screenshot.png)
+![Text Summarizer Screenshot](https://github.com/SahilChowkekar/Text-Summarizer/blob/master/imgs/Summary1.png)
 
-![Text Summarizer Screenshot](images/text-summarizer-screenshot.png)
+![Text Summarizer Screenshot](https://github.com/SahilChowkekar/Text-Summarizer/blob/master/imgs/Summary2.png)
 
 
 
